@@ -1,0 +1,27 @@
+{
+  "name": "kotori-webpack-plugin",
+  "version": "0.1.2",
+  "description": "Yet another webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokororin/kotori-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "kokororin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokororin/kotori-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/kokororin/kotori-webpack-plugin#readme",
+  "dependencies": {
+    "html-minifier": "^3.1.0",
+    "is-there": "^4.3.6",
+    "lodash": "^4.16.6"
+  }
+}
